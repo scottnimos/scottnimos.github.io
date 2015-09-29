@@ -1,0 +1,42 @@
+name: Scott Nimos
+description: Snippits of dev stuff and techy things
+meta_description: "Simple blog about programming and technology"
+
+aboutPage: true
+
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 20
+baseurl: /
+domain_name: 'http://scottnimos.com'
+google_analytics: 'UA-68233413-1'
+disqus: true
+disqus_shortname: 'scottnimos'
+
+# Details for the RSS feed generator
+url:            'http://scottnimos.com'
+author:         'Scott Nimos'
+authorTwitter:  'scottnimos'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
