@@ -109,7 +109,7 @@ h2 {
 }
 
 nav.main-nav {
-	padding: 20px 20px 20px;
+	padding: 20px 20px 0px;
 	font-weight: bold;
 	/*max-width: 600px;*/
 	/*width:100%;*/
@@ -118,9 +118,6 @@ nav.main-nav {
 	text-align: right;
 	/*position: fixed;*/
 	z-index: 100;
-	-webkit-box-shadow: -1px 1px 4px -1px rgba(0,0,0,0.75);
-	-moz-box-shadow: -1px 1px 4px -1px rgba(0,0,0,0.75);
-	box-shadow: -1px 1px 4px -1px rgba(0,0,0,0.75);
 }
 
 nav.main-nav a {
@@ -148,7 +145,7 @@ nav.main-nav a.cta {
 #wrapper {
   max-width: 600px;
   margin: 0 auto;
-  padding: 60px 40px 100px 40px;
+  padding: 50px 40px 100px 40px;
 }
 
 #wrapper.home {
@@ -230,7 +227,10 @@ em, i { font-style: italic; }
 
 .post header {
 	text-align:center;
+}
 
+.post header img {
+	margin-bottom: 10px;
 }
 
 .post h1 {
@@ -398,6 +398,10 @@ Post List
 	color: #333;
 	display: block;
 	font: bold 19px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+}
+
+#post-list img {
+	margin-top: 5px;
 }
 
 #post-list .dates {

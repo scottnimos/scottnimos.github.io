@@ -1,7 +1,7 @@
 ---
 title:  "Test Post"
 date:   2015-9-30 10:18:00
-description: Just some crazy testing
+description: "Just some crazy testing lorem Just some crazy testing loremJust some crazy testing loremJust some crazy testing loremJust some crazy testing loremJust some crazy testing loremJust some crazy testing loremJust some crazy testing loremJust some crazy testing loremJust some crazy testing lorem Just some crazy testing lorem Just some crazy testing lorem Just some crazy testing lorem"
 ---
 
 Hello World!!!
@@ -15,5 +15,3 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
-
-

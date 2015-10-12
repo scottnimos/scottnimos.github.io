@@ -2,7 +2,7 @@ name: Scott Nimos
 description: Snippits of dev stuff and techy things
 meta_description: "Simple blog about programming and technology"
 
-aboutPage: true
+aboutPage: false
 
 markdown: redcarpet
 highlighter: pygments
