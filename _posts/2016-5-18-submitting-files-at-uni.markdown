@@ -41,7 +41,7 @@ Though there is still a problem, I still have to accept that annoying plagiarism
 After a while I stumbled upon the [pipeline](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-4.html), I've used it before but I forgot about the loaded
 magic it beholds.
 
-{% highlight bash linenos=table %}
+```bash
 #!/bin/bash
 SUBJECT="$1" #e.g. "IOO"
 TYPE="$2"
@@ -50,7 +50,7 @@ do
    echo 'y' | submit "$SUBJECT" "$file"
 done
 verify
-{% endhighlight %}
+```
 
 Sweet now submitting my Uni assignments is a breeze, so I can get to more interesting things.
 If you attend La Trobe like myself and find this helpful feel free to use this little gem.
