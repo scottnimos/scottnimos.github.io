@@ -32,7 +32,7 @@ do
    submit "$SUBJECT" "$file"
 done
 verify
-'''
+```
 
 All I have to do now is execute
 >./submitAssignment.sh SubjectCode *.java
