@@ -1,7 +1,9 @@
 ---
 title:  "Submitting Assignments at Uni"
 date:   2016-5-18 7:00:00
-description: "At Uni we have submit each file separately and then accept an agreement. This can be incredibly tedious when you few files for your assignment... There has to be a better way."
+description: "Submitting projects is stupid, We have to do go through every file individually,
+submit and then accept an agreement. There has to be a better way..."
+image: ../../assets/images/2016-5-18-circle.png"width="160px
 ---
 
 At La Trobe we have to submit each file separately and then accept an agreement.

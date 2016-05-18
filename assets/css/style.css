@@ -229,10 +229,6 @@ em, i { font-style: italic; }
 	text-align:center;
 }
 
-.post header img {
-	margin-bottom: 10px;
-}
-
 .post h1 {
 	margin-bottom: 20px;
 	color: #222;
@@ -258,11 +254,24 @@ em, i { font-style: italic; }
 	  display: inline-block;
 }
 
+#post-list {
+	text-align: center;
+}
+
+#post-list li {
+	text-align: left;
+}
+
 #post-list h2 {
 	font: normal 17px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
 	color: #aaa;
 	max-width: 400px;
 	margin-top: 2px;
+}
+
+#post-list img {
+	margin-bottom: 10px;
+	width:160px;
 }
 
 h3, h4, h5 { color:#333; }
