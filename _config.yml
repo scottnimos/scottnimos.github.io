@@ -1,8 +1,8 @@
 name: Scott Nimos
-description: Snippits of dev stuff and techy things
+description: "&nbsp;&nbsp;&nbspA Young Melbourne Developer...<br/>cunning and foolish"
 meta_description: "Simple blog about programming and technology"
 
-aboutPage: false
+aboutPage: true
 
 markdown: redcarpet
 highlighter: pygments

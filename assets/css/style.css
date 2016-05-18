@@ -378,7 +378,7 @@ img {
 Post List
 =========================================== */
 #post-list,#archive-list {
-	margin-top: 100px;
+	margin-top: 80px;
 }
 
 #post-list li,#archive-list li {
@@ -401,7 +401,7 @@ Post List
 }
 
 #post-list img {
-	margin-top: 5px;
+	margin-bottom: 1em;
 }
 
 #post-list .dates {
