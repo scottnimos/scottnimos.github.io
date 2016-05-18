@@ -23,7 +23,7 @@ the tingling pain I get when I have to submit my coding assignment.
 
 I was fairly happy with the result.
 
-{% highlight bash linenos %}
+```bash
 #!/bin/bash
 SUBJECT="$1" #e.g. "IOO"
 TYPE="$2"
@@ -32,7 +32,7 @@ do
    submit "$SUBJECT" "$file"
 done
 verify
-{% endhighlight %}
+'''
 
 All I have to do now is execute
 >./submitAssignment.sh SubjectCode *.java
