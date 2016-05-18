@@ -14,7 +14,7 @@ This can be incredibly tedious when you have lots files in your project...
 Here I have 12 java files and that means I have to write 12 commands.
 >submit SubjectCode fileName.java
 
-There has to be a better way, I should also mention there is another command "verify", which
+There must be a more trivial way, I should also mention there is another command "verify", which
 shows the files that have been submitted. The process is still long, tedious and I feel like I'm going cross-eyed making sure everything is handed in.
 
 ![cross-eyed](http://vignette3.wikia.nocookie.net/uncyclopedia/images/c/cf/Crosseyed.jpg/revision/latest?cb=20070821135109 =250x)
